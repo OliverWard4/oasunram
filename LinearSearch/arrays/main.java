@@ -1,4 +1,4 @@
-package osunram.LinearSearch;
+package osunram.LinearSearch.arrays;
 
 import java.util.ArrayList;
 
