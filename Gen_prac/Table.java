@@ -13,6 +13,7 @@ public class Table<L, C> {
         this.legs = legs;
     }
 
+    // error all compiler sees is the int
     public Table(int color) {
     }
 
